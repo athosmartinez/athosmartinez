@@ -1,10 +1,10 @@
-### Olá! Eu sou o Athos 
+### <h1>Olá! Eu sou o Athos Martinez</h1>
 
-- 🔭 Estou estudando na PUC MINAS 
-- 🌱 Atualmente estou aprendendo C# e JavaScript
-- ⚡ Já passei por HTML e CSS
+- 🔭 Atuamente estudo na PUC MINAS.
+- 🌱 Atualmente estou aprendendo C# e JavaScript.
+- ⚡ Já passei por HTML e CSS.
 - 💬 Tenho 17 anos e estou no meu primeiro semestre da faculdade!
-- 🥸 Contato: athosandrade04@gmail.com
+- 🥸 Idiomas: Português e Inglês.
 
 <div align="center">
   <a href="https://github.com/athosmartinez">
