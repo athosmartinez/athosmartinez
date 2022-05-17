@@ -1,4 +1,4 @@
-### <h1>Olá! Eu sou o Athos Martinez</h1>
+### <h1>Olá! Eu sou o Athos Martinez!</h1>
 
 - 🔭 Atuamente estudo na PUC MINAS.
 - 🌱 Atualmente estou aprendendo C# e JavaScript.
