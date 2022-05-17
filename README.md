@@ -1,4 +1,11 @@
 ## <h1>Olá! Eu sou o Athos Martinez!</h1>
+
+- 🔭 Atuamente estudo na PUC MINAS.
+- 🌱 Atualmente estou aprendendo C# e JavaScript.
+- ⚡ Já passei por HTML e CSS.
+- 💬 Tenho 17 anos e estou no meu primeiro semestre da faculdade!
+- 🥸 Idiomas: Português e Inglês.
+
 <div align="center">
   <a href="https://github.com/athosmartinez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athosmartinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
