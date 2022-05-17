@@ -3,7 +3,7 @@
 - 🔭 Atuamente estudo na PUC MINAS.
 - 🌱 Atualmente estou aprendendo C# e JavaScript.
 - ⚡ Já passei por HTML e CSS.
-- 💬 Tenho 17 anos e estou no meu primeiro semestre da faculdade!
+- 💬 Tenho 17 anos e estou no meu primeiro semestre da faculdade de Sistema de Informação!
 - 🥸 Idiomas: Português e Inglês.
 
 <div align="center">
