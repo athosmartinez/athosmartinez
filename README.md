@@ -1,10 +1,10 @@
 ## <h1>Olá! Eu sou o Athos Martinez!</h1>
 
+- 👨‍💻 Realizando meu estágio na empresa na Group Software como desenvolvedor!
 - 🔭 Atuamente estudo na PUC MINAS.
-- 🌱 Atualmente estou aprendendo C# e JavaScript.
-- ⚡ Já passei por HTML, CSS, JS e C#.
-- 💬 Tenho 18 anos e estou no meu primeiro semestre da faculdade de Sistemas de Informação!
-- 🥸 Idiomas: Português e Inglês.
+- ⚡ Já passei por HTML, CSS, JS, VB, C# e JAVA.
+- 💬 Tenho 18 anos e estou no meu terceiro semestre da faculdade de Sistemas de Informação!
+- Idiomas: Português e Inglês.
 
 <div align="center">
   <a href="https://github.com/athosmartinez">
