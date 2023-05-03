@@ -2,7 +2,7 @@
 
 - 👨‍💻 Realizando meu estágio na empresa Group Software como desenvolvedor!
 - 🔭 Atuamente estudo na PUC MINAS.
-- ⚡ Já passei por HTML, CSS, JS, VB, C# e JAVA.
+- ⚡ Já passei por HTML, CSS, JS e C#.
 - 💬 Tenho 18 anos e estou no meu terceiro semestre da faculdade de Sistemas de Informação!
 - Idiomas: Português e Inglês.
 
