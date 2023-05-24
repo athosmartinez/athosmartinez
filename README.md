@@ -1,8 +1,8 @@
 ## <h1>Olá! Eu sou o Athos Martinez!</h1>
 
 - 👨‍💻 Realizando meu estágio na empresa Group Software como desenvolvedor!
-- 🔭 Atuamente estudo na PUC MINAS.
-- ⚡ Já passei por HTML, CSS, JS e C#.
+- 🔭 Aluno da PUC MINAS.
+- ⚡ Conhecimento em C#, Windows Forms, HTML, CSS e JavaScript. E framework .NET!
 - 💬 Tenho 18 anos e estou no meu terceiro semestre da faculdade de Sistemas de Informação!
 - Idiomas: Português e Inglês.
 
@@ -16,7 +16,7 @@
    <img align="center" alt="Athos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Athos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Athos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+ <img align="center" alt="Athos-dotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
 </div>
   
   ##
@@ -26,6 +26,7 @@
   <a href="http://discordapp.com/users/mxtz#0351" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:athosandrade04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/athos-martinez-a1671b237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
  
 </div>
