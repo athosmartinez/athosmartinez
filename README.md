@@ -2,7 +2,7 @@
 
 - 👨‍💻 Realizando meu estágio na empresa Group Software como desenvolvedor!
 - 🔭 Aluno da PUC MINAS.
-- ⚡ Conhecimento em C#, Windows Forms, HTML, CSS e JavaScript.
+- ⚡ Conhecimento em C#, VB6 , Windows Forms, HTML, CSS e JavaScript.
 - 💬 Tenho 18 anos e estou no meu terceiro semestre da faculdade de Sistemas de Informação!
 - Idiomas: Português e Inglês.
 
