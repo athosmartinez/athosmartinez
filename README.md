@@ -1,7 +1,6 @@
 ## <h1>Olá! Eu sou o Athos Martinez!</h1>
 
 - 👨‍💻 Realizando meu estágio na empresa Group Software como desenvolvedor!
-- 🔭 Aluno da PUC MINAS.
 - ⚡ Conhecimento em C#, VB6, Windows Forms, Java, HTML, CSS e JavaScript.
 - 💬 Tenho 19 anos e estou no meu quarto semestre da faculdade de Sistemas de Informação!
 - Idiomas: Português e Inglês.
