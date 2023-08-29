@@ -2,8 +2,8 @@
 
 - 👨‍💻 Realizando meu estágio na empresa Group Software como desenvolvedor!
 - 🔭 Aluno da PUC MINAS.
-- ⚡ Conhecimento em C#, VB6, Windows Forms, HTML, CSS e JavaScript.
-- 💬 Tenho 18 anos e estou no meu terceiro semestre da faculdade de Sistemas de Informação!
+- ⚡ Conhecimento em C#, VB6, Windows Forms, Java, HTML, CSS e JavaScript.
+- 💬 Tenho 19 anos e estou no meu quarto semestre da faculdade de Sistemas de Informação!
 - Idiomas: Português e Inglês.
 
 <div align="center">
@@ -16,6 +16,7 @@
    <img align="center" alt="Athos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Athos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Athos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Athos-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
  <img align="center" alt="Athos-dotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
 </div>
   
