@@ -28,12 +28,11 @@
   <a href="http://discordapp.com/users/mxtz#0351" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:athosandrade04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/athos-andrade-a1671b237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
  
-##
+  ##
 
-📁 Neste portfólio, você encontrará projetos que desenvolvi com diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses trabalhos fundamentam meu crescimento e desenvolvimento profissional.\n Todo o conteúdo foi aplicado de maneira didática ao longo de minha jornada como desenvolvedor.
+📁 Neste portfólio, você encontrará projetos que desenvolvi com diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses trabalhos fundamentam meu crescimento e desenvolvimento profissional. Todo o conteúdo foi aplicado de maneira didática ao longo de minha jornada como desenvolvedor.
 
 
 
