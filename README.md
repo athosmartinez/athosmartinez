@@ -4,7 +4,6 @@
 - ⚡ Conhecimento em Dart, Flutter, C#, VB6, Windows Forms, Python, HTML, CSS e JavaScript.
 - 💬 Tenho 19 anos e estou no meu quinto semestre da faculdade de Sistemas de Informação!
 - ✋🏻 Idiomas: Português e Inglês.
-- 📁 Por aqui você pode explorar projetos que desenvolvi utilizando diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses projetos são a base para meu desenvolvimento e crescimento profissional. Gostaria de destacar que todo o conteúdo deste portfólio foi adquirido e aplicado de forma didática ao longo de minha jornada como desenvolvedor.
   
 <div align="center">
   <a href="https://github.com/athosmartinez">
@@ -29,10 +28,10 @@
   <a href="http://discordapp.com/users/mxtz#0351" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:athosandrade04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/athos-andrade-a1671b237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
  
 </div>
+
+📁 Por aqui você pode explorar projetos que desenvolvi utilizando diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses projetos são a base para meu desenvolvimento e crescimento profissional. Gostaria de destacar que todo o conteúdo deste portfólio foi adquirido e aplicado de forma didática ao longo de minha jornada como desenvolvedor.Ï
 
 
 
