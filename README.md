@@ -32,7 +32,9 @@
  
   ##
 
-📁 Aqui você encontrará projetos que desenvolvi com diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses trabalhos fundamentam meu crescimento e desenvolvimento profissional.<br> Todo o conteúdo foi aplicado de maneira didática ao longo de minha jornada como desenvolvedor.  
-
+📁 Aqui você encontrará projetos que desenvolvi com diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses trabalhos fundamentam meu crescimento e desenvolvimento profissional.<br> 
+<div align="center"> 
+Todo o conteúdo foi aplicado de maneira didática ao longo de minha jornada como desenvolvedor.  
+</div>
 
 
