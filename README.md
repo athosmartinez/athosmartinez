@@ -4,7 +4,8 @@
 - ⚡ Conhecimento em Dart, Flutter, C#, VB6, Windows Forms, Python, HTML, CSS e JavaScript.
 - 💬 Tenho 19 anos e estou no meu quinto semestre da faculdade de Sistemas de Informação!
 - ✋🏻 Idiomas: Português e Inglês.
-
+- 📁 Por aqui você pode explorar projetos que desenvolvi utilizando diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses projetos são a base para meu desenvolvimento e crescimento profissional. Gostaria de destacar que todo o conteúdo deste portfólio foi adquirido e aplicado de forma didática ao longo de minha jornada como desenvolvedor.
+  
 <div align="center">
   <a href="https://github.com/athosmartinez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athosmartinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
