@@ -5,8 +5,6 @@
 - 💬 Tenho 19 anos e estou no meu quinto semestre da faculdade de Sistemas de Informação!
 - ✋🏻 Idiomas: Português e Inglês.
 
-  Por aqui busco guardar projetos desenvolvidos durante minha faculdade e cursos finalizados.
-
 <div align="center">
   <a href="https://github.com/athosmartinez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athosmartinez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
