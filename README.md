@@ -31,7 +31,7 @@
  
 </div>
 
-📁 Por aqui você pode explorar projetos que desenvolvi utilizando diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses projetos são a base para meu desenvolvimento e crescimento profissional. Gostaria de destacar que todo o conteúdo deste portfólio foi adquirido e aplicado de forma didática ao longo de minha jornada como desenvolvedor.Ï
+📁 Por aqui você pode explorar projetos que desenvolvi utilizando diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses projetos são a base para meu desenvolvimento e crescimento profissional. Gostaria de destacar que todo o conteúdo deste portfólio foi adquirido e aplicado de forma didática ao longo de minha jornada como desenvolvedor.
 
 
 
