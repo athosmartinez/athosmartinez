@@ -1,6 +1,6 @@
 ## <h1>Olá! Eu sou o Athos Martinez!</h1>
 
-- 👨‍💻 Realizando meu estágio na empresa Group Software como desenvolvedor!
+- 👨‍💻 Realizando meu estágio na empresa [Tolky.to](https://tolky.to/) como desenvolvedor! 👉🏻
 - ⚡ Conhecimento em Dart, Flutter, C#, VB, Windows Forms, Python, HTML, CSS e JavaScript.
 - 💬 Tenho 19 anos e estou no quinto semestre da faculdade de Sistemas de Informação!
 - ✋🏻 Idiomas: Português e Inglês.
