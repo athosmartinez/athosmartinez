@@ -2,7 +2,7 @@
 
 - 👨‍💻 Realizando meu estágio na empresa [tolky.to](https://tolky.to/) como desenvolvedor!
 - ⚡ Conhecimento em Dart, Flutter, C#, VB, Windows Forms, Python, HTML, CSS e JavaScript.
-- 💬 Tenho 19 anos e estou no quinto semestre da faculdade de Sistemas de Informação!
+- 💬 Tenho 19 anos e estou no sétimo semestre da faculdade de Sistemas de Informação!
 - ✋🏻 Idiomas: Português e Inglês.
   
 <div align="center">
