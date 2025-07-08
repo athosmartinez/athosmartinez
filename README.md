@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente sou **Engenheiro de Software Júnior** na empresa [tolky.to](https://tolky.to/), especializado no desenvolvimento de soluções com avatares inteligentes impulsionados por IA!
 - ⚡ Possuo conhecimento em **Node.js**, **Express**, **Nest.js**, **C#**, **VB.NET**, **Python**, **JavaScript**, **PostgreSQL**, **Kubernetes**, e **Vercel**.
-- 💬 Tenho 21 anos e estou no **sétimo semestre** da faculdade de **Sistemas de Informação** na PUC Minas!
+- 💬 Tenho 21 anos e estou no **oitavo semestre e último** da faculdade de **Sistemas de Informação** na PUC Minas!
 - ✋🏻 Idiomas: **Português** (nativo) e **Inglês** (intermediário-profissional).
   
 <div align="center">
