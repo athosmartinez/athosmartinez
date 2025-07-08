@@ -1,9 +1,9 @@
-## <h1>Olá! Eu sou o Athos Martinez!</h1>
+## <h1>Olá! Eu sou o Athos Andrade!</h1>
 
-- 👨‍💻 Trabalhando na empresa [tolky.to](https://tolky.to/) como desenvolvedor!
-- ⚡ Conhecimento em Dart, Flutter, C#, VB, Windows Forms, Python, HTML, CSS e JavaScript.
-- 💬 Tenho 19 anos e estou no sétimo semestre da faculdade de Sistemas de Informação!
-- ✋🏻 Idiomas: Português e Inglês.
+- 👨‍💻 Atualmente sou **Engenheiro de Software Júnior** na empresa [tolky.to](https://tolky.to/), especializado no desenvolvimento de soluções com avatares inteligentes impulsionados por IA!
+- ⚡ Possuo conhecimento em **Node.js**, **Express**, **Nest.js**, **C#**, **VB.NET**, **Python**, **JavaScript**, **PostgreSQL**, **Kubernetes**, e **Vercel**.
+- 💬 Tenho 21 anos e estou no **sétimo semestre** da faculdade de **Sistemas de Informação** na PUC Minas!
+- ✋🏻 Idiomas: **Português** (nativo) e **Inglês** (intermediário-profissional).
   
 <div align="center">
   <a href="https://github.com/athosmartinez">
@@ -11,13 +11,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athosmartinez&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Athos-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Athos-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Athos-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
- <img align="center" alt="Athos-dotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Athos-dotNet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Athos-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Athos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Athos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
@@ -31,8 +27,6 @@
  
   ##
 <div align="center"> 
-Aqui você encontrará projetos que desenvolvi com diversas linguagens, bibliotecas, frameworks e bancos de dados, tanto em cursos quanto durante minha faculdade. Esses trabalhos fundamentam meu crescimento e desenvolvimento profissional.<br> 
-*Todo o conteúdo foi aplicado de maneira didática ao longo de minha jornada como desenvolvedor*.
+Atualmente, trabalho na **tolky** no desenvolvimento de **avatares inteligentes** usando IA, além de atuar no gerenciamento de projetos e na comunicação com clientes. Com o apoio de diversas tecnologias e frameworks, estou desenvolvendo soluções inovadoras. Também, possuo experiência em várias áreas do desenvolvimento de software, como aplicações desktop e soluções web.<br> 
+*Todo o conteúdo apresentado é resultado de minha jornada contínua de aprendizado e aplicação prática*.
 </div>
-
-
