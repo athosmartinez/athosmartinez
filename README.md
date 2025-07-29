@@ -1,1 +1,1 @@
-I currently work at tolky.to developing intelligent AI-powered avatars and managing projects and client communication. I'm also building MapeiaEdu, a smart education platform focused on performance analytics using AI.
+I currently work at tolky.to developing intelligent AI-powered avatars and managing projects and client communication. I'm also building mapeaedu, a smart education platform focused on performance analytics using AI.
